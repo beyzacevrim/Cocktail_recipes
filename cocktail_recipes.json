@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Mojito",
+        "ingredients": [
+            "50 ml beyaz rom",
+            "1 lime",
+            "2 çay kaşığı şeker",
+            "Nane yaprakları",
+            "Soda",
+            "Buz"
+        ],
+        "instructions": [
+            "Nane yapraklarını ve şekeri bir bardakta ezin.",
+            "Lime suyu ve beyaz rom ekleyin.",
+            "Bardağı buzla doldurun ve soda ile tamamlayın.",
+            "Nazikçe karıştırın ve servis edin."
+        ],
+        "duration": "5 dakika",
+        "difficulty": "Kolay"
+    },
+    {
+        "name": "Margarita",
+        "ingredients": [
+            "50 ml tekila",
+            "25 ml lime suyu",
+            "20 ml triple sec",
+            "Tuz",
+            "Buz"
+        ],
+        "instructions": [
+            "Bir bardağın kenarını lime ile ovun ve tuza batırın.",
+            "Tekila, lime suyu ve triple sec'i buzla çalkalayın.",
+            "Hazırlanan bardağa süzerek dökün ve servis edin."
+        ],
+        "duration": "5 dakika",
+        "difficulty": "Kolay"
+    },
+    {
+        "name": "Pina Colada",
+        "ingredients": [
+            "50 ml beyaz rom",
+            "50 ml hindistan cevizi kreması",
+            "100 ml ananas suyu",
+            "Buz"
+        ],
+        "instructions": [
+            "Beyaz rom, hindistan cevizi kreması, ananas suyu ve buzu pürüzsüz olana kadar blenderda karıştırın.",
+            "Bir bardağa dökün ve servis edin."
+        ],
+        "duration": "5 dakika",
+        "difficulty": "Kolay"
+    },
+    {
+        "name": "Old Fashioned",
+        "ingredients": [
+            "50 ml bourbon viski",
+            "1 şeker küpü",
+            "2 damla Angostura bitters",
+            "Portakal kabuğu",
+            "Buz"
+        ],
+        "instructions": [
+            "Bir bardağa şeker küpünü ve bitters'i ekleyin.",
+            "Birkaç damla su ekleyerek şeker küpünü ezin.",
+            "Buz ve viski ekleyin, nazikçe karıştırın.",
+            "Portakal kabuğu ile süsleyerek servis edin."
+        ],
+        "duration": "5 dakika",
+        "difficulty": "Orta"
+    },
+    {
+        "name": "Daiquiri",
+        "ingredients": [
+            "50 ml beyaz rom",
+            "25 ml lime suyu",
+            "15 ml şeker şurubu",
+            "Buz"
+        ],
+        "instructions": [
+            "Rom, lime suyu ve şeker şurubunu buzla birlikte bir shakerda çalkalayın.",
+            "Bir bardağa süzerek dökün ve servis edin."
+        ],
+        "duration": "5 dakika",
+        "difficulty": "Kolay"
+    },
+    {
+        "name": "Cosmopolitan",
+        "ingredients": [
+            "40 ml vodka",
+            "15 ml triple sec",
+            "15 ml lime suyu",
+            "30 ml kızılcık suyu",
+            "Buz"
+        ],
+        "instructions": [
+            "Vodka, triple sec, lime suyu ve kızılcık suyunu buzla birlikte bir shakerda çalkalayın.",
+            "Hazırlanan bardağa süzerek dökün ve servis edin."
+        ],
+        "duration": "5 dakika",
+        "difficulty": "Kolay"
+    },
+    {
+        "name": "Whiskey Sour",
+        "ingredients": [
+            "50 ml bourbon viski",
+            "25 ml limon suyu",
+            "15 ml şeker şurubu",
+            "1 yumurta beyazı",
+            "Buz"
+        ],
+        "instructions": [
+            "Viski, limon suyu, şeker şurubu ve yumurta beyazını bir shakerda çalkalayın.",
+            "Buz ekleyerek tekrar çalkalayın ve bir bardağa süzün.",
+            "Limon dilimi veya kiraz ile süsleyerek servis edin."
+        ],
+        "duration": "7 dakika",
+        "difficulty": "Orta"
+    },
+    {
+        "name": "Negroni",
+        "ingredients": [
+            "25 ml gin",
+            "25 ml kırmızı vermut",
+            "25 ml Campari",
+            "Portakal dilimi",
+            "Buz"
+        ],
+        "instructions": [
+            "Gin, vermut ve Campari'yi bir karıştırma kabında buzla birlikte karıştırın.",
+            "Bir bardağa süzerek dökün.",
+            "Portakal dilimi ile süsleyerek servis edin."
+        ],
+        "duration": "5 dakika",
+        "difficulty": "Kolay"
+    },
+    {
+        "name": "Espresso Martini",
+        "ingredients": [
+            "50 ml vodka",
+            "25 ml kahve likörü",
+            "25 ml taze demlenmiş espresso",
+            "10 ml şeker şurubu",
+            "Buz"
+        ],
+        "instructions": [
+            "Vodka, kahve likörü, espresso ve şeker şurubunu buzla birlikte bir shakerda çalkalayın.",
+            "Hazırlanan bardağa süzerek dökün.",
+            "Üzerine kahve çekirdeği ile süsleyerek servis edin."
+        ],
+        "duration": "5 dakika",
+        "difficulty": "Orta"
+    },
+    {
+        "name": "Bloody Mary",
+        "ingredients": [
+            "50 ml vodka",
+            "100 ml domates suyu",
+            "15 ml limon suyu",
+            "2 damla Tabasco sos",
+            "3 damla Worcestershire sos",
+            "Tuz",
+            "Karabiber",
+            "Kereviz sapı",
+            "Buz"
+        ],
+        "instructions": [
+            "Vodka, domates suyu, limon suyu, Tabasco, Worcestershire sos, tuz ve karabiberi karıştırın.",
+            "Bardağa buz ekleyin ve üzerine karışımı dökün.",
+            "Kereviz sapı ile süsleyerek servis edin."
+        ],
+        "duration": "5 dakika",
+        "difficulty": "Kolay"
+    }
+]
